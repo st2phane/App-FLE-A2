@@ -1,0 +1,6 @@
+{
+  "name": "FLE Pro A2 - Révision Vocabulaire & Grammaire",
+  "description": "Application interactive de révision de vocabulaire et grammaire FLE niveau A2 pour apprenants adultes (vie quotidienne, métiers : libre-service, santé, périscolaire, BTP, secrétariat).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
